@@ -1,16 +1,21 @@
-### Hi there 👋
+# Hello everyone! ✌️ 
+___
 
-<!--
-**LaloHGz/LaloHGz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+___
+### I'm studying Computer science at the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
+_ _
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### About me:
+- Mexican 🇲🇽
+- Tech lover 💻
+- Cooking enthusiast 🍣
+- English / Spanish 🗣️
+- Music lover 🎧
+___
+```js
+const lalohgz = {
+  code: [C++, HTML, CSS, TypeScript, Swift, Kotlin, Java],
+  tools: [NextJs, Node, Git, SQL, VSCode, Docker],
+  interests: [Mobile_IOS_development, Mobile_Android_development, Web_development, Cooking]
+}
+```
