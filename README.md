@@ -1,6 +1,6 @@
 # Hello everyone! ✌️ 
 ___
-
+![me](https://i.pinimg.com/originals/2a/45/71/2a457144b1727a027f0a76bb10353f3f.png)
 ___
 ### I'm studying Computer science at the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
 _ _
