@@ -1,8 +1,7 @@
 # Hello everyone! ✌️ 
+![Hi, I'm Eduardo Hernández](https://github.com/user-attachments/assets/72be096c-2666-4091-9b1c-81eb52a8a244)
 ___
-![me](https://i.pinimg.com/originals/2a/45/71/2a457144b1727a027f0a76bb10353f3f.png)
-___
-### I'm studying Computer science at the [Monterrey Institute of Technology and Higher Education](https://tec.mx/en)
+### I'm Software Engineer, workings as a Database administrator at SAP
 _ _
 
 #### About me:
@@ -15,7 +14,7 @@ ___
 ```js
 const lalohgz = {
   code: [C++, HTML, CSS, TypeScript, Swift, Kotlin, Java],
-  tools: [NextJs, Node, Git, SQL, VSCode, Docker],
+  tools: [HANA, NextJs, Node, Git, SQL, VSCode, Docker],
   interests: [Mobile_IOS_development, Mobile_Android_development, Web_development, Cooking]
 }
 ```
